@@ -1,1 +1,2 @@
-# 4-Bit-Ripple-Carry-Adder-Block-Design-on-Xilinx-Vivado.
+# 4-Bit-Ripple-Carry-Adder-Block-Design-on-Xilinx-Vivado
+This repository showcases an advanced and meticulously crafted 4-bit ripple carry adder design utilizing the powerful block design capabilities of Xilinx Vivado. It provides an in-depth guide to creating, implementing, and verifying a 4-bit ripple carry adder, a fundamental building block in digital electronics. By leveraging Vivado's intuitive interface and robust design tools, this project ensures efficient development and seamless integration of the adder into larger FPGA designs.
